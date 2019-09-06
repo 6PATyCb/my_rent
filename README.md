@@ -18,3 +18,6 @@
 ![screen2.jpg](images/screen2.jpg)
 
 Для запуска пользуйтесь стартовыми скриптами: myRent.bat (Windows), myRent.sh (Linux).
+
+
+Лицензия: Apache-2.0
