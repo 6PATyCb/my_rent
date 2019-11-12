@@ -133,7 +133,7 @@ public class MainJFrame extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTable1);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Рассчет тарифов");
+        setTitle("Расчет тарифов");
         setResizable(false);
 
         calcButton.setText("Посчитать");
